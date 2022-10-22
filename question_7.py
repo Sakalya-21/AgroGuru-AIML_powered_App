@@ -1,4 +1,5 @@
 print("Question 7: 20MIM10056")
+print("Python program to calculate the sum of digits")
 
 n = int(input("Enter a number: "))
 
